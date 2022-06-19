@@ -1,5 +1,13 @@
 # Hi there 👋
 ## I'm Alina Pashkova
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Just0Lina&label=Views&color=blue&style=plastic" alt="Evgueni-Petrov-aka-espetrov" /> </p>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Just0Lina)](https://github.com/anuraghazra/github-readme-stats)
+
+
+<a href="https://github.com/Just0Lina">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=Just0Lina&show_icons=true&theme=dark&line_height=27" alt="Thakur's github stats"/>
+</a>
 
 ### I'm backend C/C++ developer
 
