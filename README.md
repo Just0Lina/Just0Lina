@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋
 ## Hello, I'm Alina Pashkova
 
 ### I'm backend C/C++ developer
@@ -54,7 +54,7 @@ I study in 21 school and in NSU on FIT.
     <img align="center" style="margin-right:5px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/512px-Telegram_2019_Logo.svg.png" width="50px" />
   </a>
   &nbsp;&nbsp;
-    <a href="mailto:va.a.passshkova@gmail.com" target="_blank" >
+    <a href="mailto:a.passshkova@gmail.com" target="_blank" >
     <img align="center" style="margin-right:15px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/800px-Gmail_icon_%282020%29.svg.png" width="50px" />
   </a>
   &nbsp;&nbsp;
