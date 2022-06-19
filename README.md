@@ -1,9 +1,9 @@
 ### Hi there 👋
-## Hello, I'm Savin Anton
+## Hello, I'm Alina Pashkova
 
 ### I'm backend C/C++ developer
 
-I study in 21 school and in NSTU on applied mathematic.
+I study in 21 school and in NSU on FIT.
 
 ### Skills and Tools
 
