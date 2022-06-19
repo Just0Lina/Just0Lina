@@ -2,9 +2,6 @@
 ## I'm Alina Pashkova
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Just0Lina&label=Views&color=blue&style=plastic" alt="Evgueni-Petrov-aka-espetrov" /> </p>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Just0Lina)](https://github.com/anuraghazra/github-readme-stats)
-
-
 <a href="https://github.com/Just0Lina">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Just0Lina&show_icons=true&theme=dark&line_height=27" alt="Thakur's github stats"/>
 </a>
@@ -43,8 +40,6 @@ I study in 21 school and in NSU on FIT.
 
 ---
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Just0Lina)](https://github.com/anuraghazra/github-readme-stats)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Just0Lina)](https://github.com/anuraghazra/github-readme-stats)
 
 
@@ -70,11 +65,10 @@ I study in 21 school and in NSU on FIT.
 
 
 <!--
-**Just0Lina/Just0Lina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on ...✨
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
