@@ -1,5 +1,5 @@
 # Hi there 👋
-## Hello, I'm Alina Pashkova
+## I'm Alina Pashkova
 
 ### I'm backend C/C++ developer
 
