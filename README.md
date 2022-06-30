@@ -3,7 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Just0Lina&label=Views&color=blue&style=plastic" alt="Evgueni-Petrov-aka-espetrov" /> </p>
 
 <a href="https://github.com/Just0Lina">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=Just0Lina&show_icons=true&theme=dark&line_height=27" alt="Thakur's github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=Just0Lina&show_icons=true&theme=nightowl&line_height=27" alt="Thakur's github stats"/>
 </a>
 
 ### I'm backend C/C++ developer
@@ -21,13 +21,9 @@ I study in 21 school and in NSU on FIT.
 
 <img align="left" alt="Bash" width="72px" style="margin-right:15px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/1200px-Bash_Logo_Colored.svg.png" />
 
-<img align="left" alt="Docker" width="72px" style="margin-right:15px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
-
 <img align="left" alt="CI/CD" width="72px" style="margin-right:15px" src="https://res.cloudinary.com/practicaldev/image/fetch/s--MGFgk-2t--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://i.imgur.com/NZZgERx.png" />
 
 <img align="left" alt="Linux" width="72px" style="margin-right:15px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/640px-Tux.svg.png" />
-
-<img align="left" alt="MarkDown" width="72px" style="margin-right:15px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Markdown-mark.svg/1280px-Markdown-mark.svg.png" />
 
 <br />
 <br />
@@ -40,7 +36,7 @@ I study in 21 school and in NSU on FIT.
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Just0Lina)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Just0Lina&theme=nightowl )](https://github.com/anuraghazra/github-readme-stats)
 
 
 
