@@ -6,9 +6,9 @@
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Just0Lina&show_icons=true&theme=nightowl&line_height=27" alt="Thakur's github stats"/>
 </a>
 
-### I'm backend C/C++ developer
+### New one backend C/C++ developer
 
-I study in 21 school and in NSU on FIT.
+I study in school 21 and in NSU on FIT.
 
 ### Skills and Tools
 
