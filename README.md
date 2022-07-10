@@ -15,6 +15,9 @@ I study in school 21 and in NSU on FIT.
 ---
 <img align="left" alt="C++" width="72px" style="margin-right:15px" src="https://raw.githubusercontent.com/github/explore/180320cffc25f4ed1bbdfd33d4db3a66eeeeb358/topics/cpp/cpp.png" />
 
+<img align="left" alt="OpenGl" width="72px" style="margin-right:15px"
+src="https://w7.pngwing.com/pngs/28/187/png-transparent-opengl-es-khronos-group-webgl-opengl-shading-language-others-blue-3d-computer-graphics-text.png" />
+
 <img align="left" alt="C" width="72px" style="margin-right:15px" src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/c/c.png" />
 
 <img align="left" alt="Qt" width="72px" style="margin-right:15px" src="https://blog.skillfactory.ru/wp-content/uploads/2022/02/20211220183943qt_logo-5024734.png" />
