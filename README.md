@@ -1,5 +1,4 @@
 # Hi there 👋
-## I'm Alina Pashkova
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Just0Lina&label=Views&color=blue&style=plastic" alt="Evgueni-Petrov-aka-espetrov" /> </p>
 
 <a href="https://github.com/Just0Lina">
