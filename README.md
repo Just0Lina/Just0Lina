@@ -32,12 +32,13 @@ src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaEkzRyJ_kEMipfHL0ilr
  
 <a href="https://www.linux.org/"> 
 <img align="left" alt="Linux" height="50px" style="margin-right:15px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/640px-Tux.svg.png" />
- </p> 
 
-<br />
-<br />
+</br>
+</br>
+</br>
 
-<h2 align="left">💻 Some statistics</h2>
+
+<h2 align="left">💻 Some statistics:</h2>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Just0Lina&theme=nightowl )](https://github.com/anuraghazra/github-readme-stats)
 
