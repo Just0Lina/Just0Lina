@@ -12,6 +12,7 @@ I study in school 21 and in NSU on FIT.
 ### Skills and Tools (Уверенный неуверенный пользователь этого дела)
 
 ---
+   <a href="https://vk.com/justolina">
 <img align="left" alt="C++" width="72px" style="margin-right:15px" src="https://raw.githubusercontent.com/github/explore/180320cffc25f4ed1bbdfd33d4db3a66eeeeb358/topics/cpp/cpp.png" />
 
 <img align="left" alt="OpenGl" width="72px" style="margin-right:15px"
