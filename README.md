@@ -37,7 +37,7 @@ src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaEkzRyJ_kEMipfHL0ilr
 <br />
 <br />
 
-<h2 align="left">💻  Some statistics</h2>
+<h2 align="left">💻 Some statistics</h2>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Just0Lina&theme=nightowl )](https://github.com/anuraghazra/github-readme-stats)
 
