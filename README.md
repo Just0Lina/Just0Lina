@@ -12,20 +12,27 @@ I study in school 21 and in NSU on FIT.
 ### Skills and Tools (Уверенный неуверенный пользователь этого дела)
 
 ---
-   <a href="https://vk.com/justolina">
+ <a href="https://isocpp.org/">
 <img align="left" alt="C++" width="72px" style="margin-right:15px" src="https://raw.githubusercontent.com/github/explore/180320cffc25f4ed1bbdfd33d4db3a66eeeeb358/topics/cpp/cpp.png" />
 
+ <a href="https://www.opengl.org/">
 <img align="left" alt="OpenGl" width="72px" style="margin-right:15px"
 src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaEkzRyJ_kEMipfHL0ilrqU97VOGd_8LTLmRNJlwe7gor8yb03TMMpXkvvba9piwlynSw&usqp=CAU" />
 
+ <a href="https://www.iso.org/home.html">
 <img align="left" alt="C" width="72px" style="margin-right:15px" src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/c/c.png" />
 
+        
+ <a href="https://www.opengl.org/">
 <img align="left" alt="Qt" width="72px" style="margin-right:15px" src="https://blog.skillfactory.ru/wp-content/uploads/2022/02/20211220183943qt_logo-5024734.png" />
 
+<a href="https://www.gnu.org/software/bash/">
 <img align="left" alt="Bash" width="72px" style="margin-right:15px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/1200px-Bash_Logo_Colored.svg.png" />
-
-<img align="left" alt="CI/CD" width="72px" style="margin-right:15px" src="https://res.cloudinary.com/practicaldev/image/fetch/s--MGFgk-2t--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://i.imgur.com/NZZgERx.png" />
-
+ 
+<a href="https://git-scm.com/">
+<img align="left" alt="git" height="35px"/ style="margin-right:15px" src="![image](https://user-images.githubusercontent.com/87114350/189270542-ee6deaa7-537e-4632-878a-ac25fb03a06f.png)" />
+ 
+ <a href="https://www.linux.org/>
 <img align="left" alt="Linux" width="72px" style="margin-right:15px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/640px-Tux.svg.png" />
 
 <br />
