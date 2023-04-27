@@ -22,7 +22,7 @@ src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaEkzRyJ_kEMipfHL0ilr
 <img align="left" alt="C" height="50px style="margin-right:15px" src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/c/c.png" />
 
 <a href="https://www.qt.io/">
-<img align="left" alt="Qt" height="50px" style="margin-right:15px" src="https://blog.skillfactory.ru/wp-content/uploads/2022/02/20211220183943qt_logo-5024734.png" />
+<img align="left" alt="Qt" height="50px" style="margin-right:15px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Qt_small.svg/2560px-Qt_small.svg.png" />
 
 <a href="https://www.gnu.org/software/bash/">
 <img align="left" alt="Bash" height="50px" style="margin-right:15px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/1200px-Bash_Logo_Colored.svg.png" />
@@ -56,7 +56,7 @@ src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaEkzRyJ_kEMipfHL0ilr
     <img align="center" style="margin-right:5px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/512px-Telegram_2019_Logo.svg.png" width="50px" />
   </a>
   &nbsp;&nbsp;
-    <a href="mailto:a.passshkova@gmail.com" target="_blank" >
+    <a href="mailto:al.passshkova@gmail.com" target="_blank" >
     <img align="center" style="margin-right:15px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/800px-Gmail_icon_%282020%29.svg.png" width="50px" />
   </a>
   &nbsp;&nbsp;
