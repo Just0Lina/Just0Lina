@@ -1,9 +1,6 @@
 # Hi there <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br>
 <p align="left" > <img src="https://komarev.com/ghpvc/?username=Just0Lina&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge" /> </p>
 
-<a href="https://github.com/Just0Lina">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=Just0Lina&show_icons=true&theme=nightowl&line_height=27" alt="Thakur's github stats"/>
-</a>
 
 <h2 align="left">New one backend C/C++ developer</h2>
 
@@ -33,6 +30,10 @@ src="https://github.com/devicons/devicon/blob/master/icons/opengl/opengl-origina
 <a href="https://git-scm.com/">
 <img align="left" alt="git" height="50px"/ style="margin-right:15px" src="https://user-images.githubusercontent.com/87114350/189270542-ee6deaa7-537e-4632-878a-ac25fb03a06f.png" />
  
+ 
+ <a href="https://spring.io/"> 
+<img align="left" alt="Java" height="50px" style="margin-right:15px" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" />
+ 
 <a href="https://www.linux.org/"> 
 <img align="left" alt="Linux" height="50px" style="margin-right:15px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/640px-Tux.svg.png" />
 
@@ -40,8 +41,6 @@ src="https://github.com/devicons/devicon/blob/master/icons/opengl/opengl-origina
 <a href="https://www.java.com/ru/"> 
 <img align="left" alt="Java" height="50px" style="margin-right:15px" src="https://upload.wikimedia.org/wikipedia/ru/thumb/3/39/Java_logo.svg/1200px-Java_logo.svg.png" />
 
-<a href="https://spring.io/"> 
-<img align="left" alt="Java" height="50px" style="margin-right:15px" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" />
 
 </br>
 </br>
@@ -50,22 +49,35 @@ src="https://github.com/devicons/devicon/blob/master/icons/opengl/opengl-origina
 
 <h2 align="left">💻 Some statistics:</h2>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Just0Lina&theme=nightowl )](https://github.com/anuraghazra/github-readme-stats)
+ <p align="center">
+<a href="https://github.com/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Just0Lina&hide=TeX&layout=compact&theme=nightowl&background=000000" height="163"/>
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Just0Lina&count_private=true&show_icons=true&include_all_commits=true&theme=nightowl" height="163" />
+</a>
+</p>
+
 
  
  ## ✨Fav repositories:
 <p align="center">
 
-<a href="https://github.com/Just0Lina/2nd-course-NSU-Java">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Just0Lina&repo=2nd-course-NSU-Java&theme=gotham&cache_seconds=2000" weight=50%/>
-</a>
- <a href="https://github.com/Just0Lina/2nd-course-NSU-CPP">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Just0Lina&repo=2nd-course-NSU-CPP&theme=gotham&cache_seconds=2000" weight=50%/>
-</a>
  
  <a href="https://github.com/Just0Lina/School21-CPP-Projects">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Just0Lina&repo=School21-CPP-Projects&theme=gotham&cache_seconds=2000" weight=50%/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Just0Lina&repo=School21-CPP-Projects&theme=nightowl&cache_seconds=2000" weight=50%/>
 </a>
+ </br>
+
+ 
+<a href="https://github.com/Just0Lina/2nd-course-NSU-Java">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Just0Lina&repo=2nd-course-NSU-Java&theme=nightowl&cache_seconds=2000" weight=50%/>
+</a>
+ <a href="https://github.com/Just0Lina/2nd-course-NSU-CPP">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Just0Lina&repo=2nd-course-NSU-CPP&theme=nightowl&cache_seconds=2000" weight=50%/>
+</a>
+ 
+ 
  
 
 </p>
