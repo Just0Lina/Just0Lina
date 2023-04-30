@@ -52,6 +52,23 @@ src="https://github.com/devicons/devicon/blob/master/icons/opengl/opengl-origina
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Just0Lina&theme=nightowl )](https://github.com/anuraghazra/github-readme-stats)
 
+ 
+ ## ✨Fav repositories:
+<p align="center">
+
+<a href="https://github.com/Just0Lina/2nd-course-NSU-Java">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Just0Lina&repo=2nd-course-NSU-Java&theme=gotham&cache_seconds=2000" weight=50%/>
+</a>
+ <a href="https://github.com/Just0Lina/2nd-course-NSU-CPP">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Just0Lina&repo=2nd-course-NSU-CPP&theme=gotham&cache_seconds=2000" weight=50%/>
+</a>
+ 
+ <a href="https://github.com/Just0Lina/School21-CPP-Projects">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Just0Lina&repo=School21-CPP-Projects&theme=gotham&cache_seconds=2000" weight=50%/>
+</a>
+ 
+
+</p>
 
 ### You can contact me
 
