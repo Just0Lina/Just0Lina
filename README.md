@@ -11,12 +11,15 @@ I study in school 21 and in NSU on FIT.
 
 <h2 align="left">:hammer_and_wrench: Technologies and Tools I use:</h2> 
 
+<a href="https://www.postgresql.org/"> 
+<img align="left" alt="PostgreSQL" height="50px style="margin-right:15px" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" />
+
 <a href="https://isocpp.org/"> 
 <img align="left" alt="C++" height="50px style="margin-right:15px" src="https://raw.githubusercontent.com/github/explore/180320cffc25f4ed1bbdfd33d4db3a66eeeeb358/topics/cpp/cpp.png" />
 
 <a href="https://www.opengl.org/"> 
 <img align="left" alt="OpenGl" height="70px style="margin-right:15px"
-src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaEkzRyJ_kEMipfHL0ilrqU97VOGd_8LTLmRNJlwe7gor8yb03TMMpXkvvba9piwlynSw&usqp=CAU" />
+src="https://github.com/devicons/devicon/blob/master/icons/opengl/opengl-original.svg" />
 
 <a href="https://www.cprogramming.com/">
 <img align="left" alt="C" height="50px style="margin-right:15px" src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/c/c.png" />
@@ -32,6 +35,13 @@ src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaEkzRyJ_kEMipfHL0ilr
  
 <a href="https://www.linux.org/"> 
 <img align="left" alt="Linux" height="50px" style="margin-right:15px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/640px-Tux.svg.png" />
+
+
+<a href="https://www.java.com/ru/"> 
+<img align="left" alt="Java" height="50px" style="margin-right:15px" src="https://upload.wikimedia.org/wikipedia/ru/thumb/3/39/Java_logo.svg/1200px-Java_logo.svg.png" />
+
+<a href="https://spring.io/"> 
+<img align="left" alt="Java" height="50px" style="margin-right:15px" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" />
 
 </br>
 </br>
