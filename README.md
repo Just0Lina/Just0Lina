@@ -2,7 +2,7 @@
 <p align="left" > <img src="https://komarev.com/ghpvc/?username=Just0Lina&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge" /> </p>
 
 
-<h2 align="left">New one backend C/C++ developer</h2>
+<h2 align="left">New one backend C++/Java developer</h2>
 
 I study in school 21 and in NSU on FIT.
 
