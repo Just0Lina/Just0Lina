@@ -63,19 +63,18 @@ src="https://github.com/devicons/devicon/blob/master/icons/opengl/opengl-origina
  ## ✨Fav repositories:
 <p align="center">
 
- 
- <a href="https://github.com/Just0Lina/School21-CPP-Projects">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Just0Lina&repo=School21-CPP-Projects&theme=nightowl&cache_seconds=2000" weight=50%/>
+ </a>
+ <a href="https://github.com/Koshak1432/talkychef-server">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Koshak1432&repo=talkychef-server&theme=nightowl&cache_seconds=2000" weight=50%/>
+</a>
+ <a href="https://github.com/Just0Lina/3rd-course-networks">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Just0Lina&repo=3rd-course-networks&theme=nightowl&cache_seconds=2000" weight=50%/>
 </a>
  </br>
 
- 
-<a href="https://github.com/Just0Lina/2nd-course-NSU-Java">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Just0Lina&repo=2nd-course-NSU-Java&theme=nightowl&cache_seconds=2000" weight=50%/>
-</a>
- <a href="https://github.com/Just0Lina/2nd-course-NSU-CPP">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Just0Lina&repo=2nd-course-NSU-CPP&theme=nightowl&cache_seconds=2000" weight=50%/>
-</a>
+<a href="https://github.com/Just0Lina/3rd-course-ooa-d">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Just0Lina&repo=3rd-course-ooa-d&theme=nightowl&cache_seconds=2000" weight=50%/>
+
  
  
  
