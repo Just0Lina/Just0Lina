@@ -2,34 +2,17 @@
 <p align="left" > <img src="https://komarev.com/ghpvc/?username=Just0Lina&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge" /> </p>
 
 
-<h2 align="left">New one backend C++/Java developer</h2>
+<h2 align="left">Aspiring Java developer</h2>
 
-I study in school 21 and in NSU on FIT.
+<p>I’m a student at FIT, passionate about coding and problem-solving.</p>
 
 <h2 align="left">:hammer_and_wrench: Technologies and Tools I use:</h2> 
 
 <a href="https://www.postgresql.org/"> 
 <img align="left" alt="PostgreSQL" height="50px style="margin-right:15px" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" />
-
-<a href="https://isocpp.org/"> 
-<img align="left" alt="C++" height="50px style="margin-right:15px" src="https://raw.githubusercontent.com/github/explore/180320cffc25f4ed1bbdfd33d4db3a66eeeeb358/topics/cpp/cpp.png" />
-
-<a href="https://www.opengl.org/"> 
-<img align="left" alt="OpenGl" height="70px style="margin-right:15px"
-src="https://github.com/devicons/devicon/blob/master/icons/opengl/opengl-original.svg" />
-
-<a href="https://www.cprogramming.com/">
-<img align="left" alt="C" height="50px style="margin-right:15px" src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/c/c.png" />
-
-<a href="https://www.qt.io/">
-<img align="left" alt="Qt" height="50px" style="margin-right:15px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Qt_small.svg/2560px-Qt_small.svg.png" />
-
-<a href="https://www.gnu.org/software/bash/">
-<img align="left" alt="Bash" height="50px" style="margin-right:15px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/1200px-Bash_Logo_Colored.svg.png" />
  
 <a href="https://git-scm.com/">
 <img align="left" alt="git" height="50px"/ style="margin-right:15px" src="https://user-images.githubusercontent.com/87114350/189270542-ee6deaa7-537e-4632-878a-ac25fb03a06f.png" />
- 
  
  <a href="https://spring.io/"> 
 <img align="left" alt="Java" height="50px" style="margin-right:15px" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" />
@@ -59,21 +42,21 @@ src="https://github.com/devicons/devicon/blob/master/icons/opengl/opengl-origina
 </p>
 
 
- 
  ## ✨Fav repositories:
 <p align="center">
 
+<a href="https://github.com/Just0Lina/3rd-course-ooa-d">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Just0Lina&repo=4th-course-android&theme=nightowl&cache_seconds=2000" weight=50%/>
+ 
  </a>
  <a href="https://github.com/Koshak1432/talkychef-server">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Koshak1432&repo=talkychef-server&theme=nightowl&cache_seconds=2000" weight=50%/>
 </a>
  <a href="https://github.com/Just0Lina/3rd-course-networks">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Just0Lina&repo=3rd-course-networks&theme=nightowl&cache_seconds=2000" weight=50%/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Just0Lina&repo=4th-course-nsu-ris&theme=nightowl&cache_seconds=2000" weight=50%/>
 </a>
  </br>
 
-<a href="https://github.com/Just0Lina/3rd-course-ooa-d">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Just0Lina&repo=3rd-course-ooa-d&theme=nightowl&cache_seconds=2000" weight=50%/>
 
  
  
