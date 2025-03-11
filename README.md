@@ -52,7 +52,7 @@
  <a href="https://github.com/Koshak1432/talkychef-server">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Koshak1432&repo=talkychef-server&theme=nightowl&cache_seconds=2000" weight=50%/>
 </a>
- <a href="https://github.com/Just0Lina/3rd-course-networks">
+ <a href="https://github.com/Just0Lina/4th-course-nsu-ris">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Just0Lina&repo=4th-course-nsu-ris&theme=nightowl&cache_seconds=2000" weight=50%/>
 </a>
  </br>
