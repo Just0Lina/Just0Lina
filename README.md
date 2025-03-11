@@ -31,10 +31,9 @@
 
 
 <h2 align="left">💻 Some statistics:</h2>
-
  <p align="center">
 <a href="https://github.com/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Just0Lina&hide=TeX&layout=compact&theme=nightowl&background=000000" height="163"/>
+  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Just0Lina&hide=TeX&layout=compact&theme=nightowl&background=000000" height="163"/>
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Just0Lina&count_private=true&show_icons=true&include_all_commits=true&theme=nightowl" height="163" />
@@ -51,10 +50,12 @@
  </a>
  <a href="https://github.com/Koshak1432/talkychef-server">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Koshak1432&repo=talkychef-server&theme=nightowl&cache_seconds=2000" weight=50%/>
+ </a>
+
+<a href="https://github.com/Just0Lina/4th-course-nsu-ris">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Just0Lina&repo=4th-course-nsu-ris&theme=nightowl&cache_seconds=2000" width="50%" />
 </a>
- <a href="https://github.com/Just0Lina/4th-course-nsu-ris">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Just0Lina&repo=4th-course-nsu-ris&theme=nightowl&cache_seconds=2000" weight=50%/>
-</a>
+
  </br>
 
 
