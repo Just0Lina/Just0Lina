@@ -44,7 +44,7 @@
  ## ✨Fav repositories:
 <p align="center">
 
-<a href="https://github.com/Just0Lina/3rd-course-ooa-d">
+<a href="https://github.com/Just0Lina/4th-course-android">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Just0Lina&repo=4th-course-android&theme=nightowl&cache_seconds=2000" weight=50%/>
  
  </a>
